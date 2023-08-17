@@ -1,0 +1,24 @@
+{
+  "distance": [
+    {
+      "name": "Meter",
+      "symbol": "m",
+      "conversion": { "m": 1, "cm": 100, "in": 39.3701, "ft": 3.28084 }
+    },
+    {
+      "name": "Centimeter",
+      "symbol": "cm",
+      "conversion": { "m": 0.01, "cm": 1, "in": 0.393701, "ft": 0.0328084 }
+    },
+    {
+      "name": "Inch",
+      "symbol": "in",
+      "conversion": { "m": 0.0254, "cm": 2.54, "in": 1, "ft": 0.0833333 }
+    },
+    {
+      "name": "Foot",
+      "symbol": "ft",
+      "conversion": { "m": 0.3048, "cm": 30.48, "in": 12, "ft": 1 }
+    }
+  ]
+}
